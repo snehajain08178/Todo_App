@@ -1,0 +1,3 @@
+export const ADD_ITEM = 'ADD_ITEM';
+export const SAVE_PAGES = 'SAVE_PAGES';
+export const MAKING_CHANGES_TO_PAGES = ' MAKING_CHANGES_TO_PAGES'

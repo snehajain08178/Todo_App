@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daffolap-990/Desktop/todowithbetterui/todoWithBetterUi/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/daffolap-990/.gradle/caches/transforms-2/files-2.1/efa39921cce3ceba1240fe6b2af3546c/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
