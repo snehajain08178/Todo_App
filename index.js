@@ -5,8 +5,10 @@ import App from './App';
 import {name as appName} from './app.json';
 import {Provider} from 'react-redux';
 import configureStore from './src/redux/store/store';
+import { persistStore, persistReducer } from 'redux-persist';
 
 const store = configureStore();
+const persistor = persistStore(store)
 const redux = () => {
   return (
     <Provider store={store}>
